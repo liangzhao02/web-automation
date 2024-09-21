@@ -1,3 +1,8 @@
+"""需求：
+    1. 打开注册A.html页面，使用name定位，自动填写(账号A：admin、密码A:123456)
+    2. 3秒后关闭浏览器窗口
+"""
+
 from selenium import webdriver
 from time import sleep
 

@@ -1,3 +1,9 @@
+"""需求：
+    1. 打开注册A.html页面
+    2. 通过class_name定位电话号码A，并输入：18611111111
+    3. 通过class_name定位电子邮箱A，并输入：123@qq.com
+    4. 3秒后关闭浏览器窗口
+"""
 from time import sleep
 
 from selenium import webdriver
