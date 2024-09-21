@@ -53,18 +53,5 @@
     2. 使用tag_name定位用户名输入框，并输入：admin
     3. 3秒后关闭浏览器窗口
 """
-# from selenium import webdriver
-# from time import sleep
-#
-# wd = webdriver.Chrome()
-# wd.get('D:\软件测试学习资料\讲义\web自动化\素材\注册A.html')
-# sleep(2)
-#
-# # wd.find_element_by_tag_name('input').send_keys('admin')
-# wd.find_elements_by_tag_name("input")[3].send_keys("123456")
-# wd.find
-# sleep(3)
-#
-# wd.quit()
 
 
