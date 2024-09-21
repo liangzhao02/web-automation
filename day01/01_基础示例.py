@@ -8,6 +8,7 @@ driver = webdriver.Chrome()
 
 # 进入百度页面 get('url')
 driver.get('https://www.baidu.com')
+driver.find_element_by_id("kw").send_keys("python")
 
 # 等待三秒关闭
 sleep(3)
