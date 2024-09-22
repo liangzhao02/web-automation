@@ -7,7 +7,7 @@ from selenium import webdriver
 driver = webdriver.Chrome()
 
 # 进入百度页面 get('url')
-driver.get('D:\软件测试学习资料\讲义\web自动化\素材\注册A.html')
+driver.get("D:\软件测试学习资料\handouts\web自动化\素材\注册A.html")
 
 # 使用id定位到账号框
 userA = driver.find_element_by_id('userA')

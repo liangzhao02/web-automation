@@ -9,7 +9,7 @@ from time import sleep
 from selenium import webdriver
 
 driver = webdriver.Chrome()
-driver.get('D:\软件测试学习资料\讲义\web自动化\素材\注册A.html')
+driver.get("D:\软件测试学习资料\handouts\web自动化\素材\注册A.html")
 sleep(2)
 
 telA = driver.find_element_by_class_name("telA")
