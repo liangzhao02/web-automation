@@ -13,6 +13,7 @@ driver = webdriver.Chrome()
 driver.get("D:\软件测试学习资料\handouts\web自动化\素材\注册A.html")
 sleep(3)
 
+driver.maximize_window()
 # 定位下拉框元素
 selectA = driver.find_element_by_id('selectA')
 
