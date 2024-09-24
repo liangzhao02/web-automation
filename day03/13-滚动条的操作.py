@@ -1,0 +1,16 @@
+"""打开注册A页面
+滑动屏幕
+"""
+from selenium import webdriver
+from time import sleep
+
+
+driver = webdriver.Chrome()
+driver.get("D:\软件测试学习资料\handouts\web自动化\素材\注册A.html")
+sleep(3)
+
+js = "window.scrollTo(0,1000)"
+
+driver.execute_script(js)
+sleep(3)
+driver.quit()
