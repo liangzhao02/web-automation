@@ -1,0 +1,44 @@
+1727232509687	geckodriver	INFO	Listening on 127.0.0.1:16346
+1727232512769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\17651\\AppData\\Local\\Temp\\rust_mozprofileYn1fgg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1727232513055	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1727232513155	Marionette	INFO	Listening on port 16364
+Read port: 16364
+1727232513265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.1.21:9999."
+1727232517814	Marionette	INFO	Stopped listening on port 16364
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/Prompter.sys.mjs, line 1212: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+1727232520742	geckodriver	INFO	Listening on 127.0.0.1:16432
+1727232523799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\17651\\AppData\\Local\\Temp\\rust_mozprofilecMynDm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1727232524079	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1727232524175	Marionette	INFO	Listening on port 16451
+Read port: 16451
+1727232524295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://192.168.1.21:9999."
+1727232528898	Marionette	INFO	Stopped listening on port 16451
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/Prompter.sys.mjs, line 1212: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1727261537216	geckodriver	INFO	Listening on 127.0.0.1:25434
+1727261540265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\17651\\AppData\\Local\\Temp\\rust_mozprofile1KvtLs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1727261540698	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1727261541157	Marionette	INFO	Listening on port 25447
+Read port: 25447
+1727261541290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1727261552758	Marionette	INFO	Stopped listening on port 25447
+JavaScript warning: http://www.itfeat.com/assets/js/plugins.js, line 19: Script terminated by timeout at:
+o.prototype.onAnimationFrame@http://www.itfeat.com/assets/js/plugins.js:19:6827
+
+Dynamically enable window occlusion 1

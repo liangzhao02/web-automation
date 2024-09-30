@@ -1,7 +1,8 @@
 from selenium import webdriver
 from time import sleep
 driver = webdriver.Chrome()
-driver.get('http://192.168.1.21:9999/')
+driver.get('http://info.itfeat.com/')
+driver.maximize_window()
 # 登录失败
 driver.find_element_by_link_text('登录').click()
 # 输入账号
